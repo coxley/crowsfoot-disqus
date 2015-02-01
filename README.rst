@@ -1,9 +1,10 @@
 crowsfoot-disqus
 ================
 
-A theme for the `Pelican`_ static site generator. Is a modification of the
-original crowsfoot theme location `here`_ to include Disqus comments and
-changeable pygment themes.
+A theme for the `Pelican`_ static site generator.
+
+Is a modification of the original crowsfoot theme location `here`_ to include 
+Disqus comments and changeable pygment themes.
 
 .. _Pelican: http://getpelican.com
 .. _here: https://github.com/porterjamesj/crowsfoot
